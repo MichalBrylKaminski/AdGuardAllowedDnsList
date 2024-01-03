@@ -1,0 +1,7 @@
+!
+! Title: Bryl's Allow List
+! Description: List of DNS required for work
+! Homepage: https://github.com/MichalBrylKaminski/AdGuardAllowedDnsList
+! Last modified: 2024-01-03
+!
+||docs.newrelic.com^
