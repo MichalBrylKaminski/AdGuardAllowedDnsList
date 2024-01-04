@@ -6,3 +6,4 @@
 !
 ||docs.newrelic.com^
 ||one.newrelic.com^
+||newrelic.com^
